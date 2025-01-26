@@ -1,6 +1,6 @@
 # Klaus Eduard's Projects
 
-Welcome to my GitHub Pages site. Here you can find information about my various software projects.
+This GitHub Pages site is automatically generated and lists some of my experimental side projects.
 
 ## Projects
 
