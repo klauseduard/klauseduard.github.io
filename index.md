@@ -17,7 +17,10 @@ Updated in February 2025 with local LLM support.
 ## Writings
 
 ### [The Paradigm Shift in Software Development](https://klauseduard.github.io/ai-coding-insights/paradigm-shift.html)
-Observations and insights about how AI-assisted programming is changing the landscape of software development.
+Observations and insights about how AI-assisted programming is changing the landscape of software development. (April 2025)
+
+### [The AI Offensive - A Leap into the Unknown](https://www.err.ee/1608960895/klaus-eduard-runnel-tehisaru-pealetung-hupe-tundmatusse) (in Estonian)
+An opinion piece published on ERR in April 2023 about the implications of the rapid advancement of AI tools like ChatGPT and their impact on various fields, particularly education and software development.
 
 ## About
 
