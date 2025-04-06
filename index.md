@@ -14,6 +14,11 @@ A Python-based implementation of the classic Scrabble board game, specifically d
 A coding experiment from the early days of the LLM boom (2023) that uses simulated conversations to explain concepts.
 Updated in February 2025 with local LLM support.
 
+## Writings
+
+### [The Paradigm Shift in Software Development](https://klauseduard.github.io/ai-coding-insights/paradigm-shift.html)
+Observations and insights about how AI-assisted programming is changing the landscape of software development.
+
 ## About
 
 This site serves as an index for my public projects. Each project has its own detailed documentation and source code available on GitHub. 
