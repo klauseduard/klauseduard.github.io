@@ -21,4 +21,10 @@ Observations and insights about how AI-assisted programming is changing the land
 
 ## About
 
-This site serves as an index for my public projects. Each project has its own detailed documentation and source code available on GitHub. 
+This site serves as an index for my public projects. Each project has its own detailed documentation and source code available on GitHub.
+
+## Contact
+
+You can reach me through:
+- GitHub: [@klauseduard](https://github.com/klauseduard)
+- Email: [klaus.eduard@gmail.com](mailto:klaus.eduard@gmail.com) 
