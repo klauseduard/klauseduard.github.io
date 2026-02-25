@@ -10,6 +10,9 @@ A simulation tool for Estonian parliamentary elections that demonstrates mandate
 ### [Estonian Scrabble](https://klauseduard.github.io/estonian-scrabble/)
 A Python-based implementation of the classic Scrabble board game, specifically designed for the Estonian language. Features include Estonian alphabet support (õ, ä, ö, ü, š, ž), Estonian wordlist validation, and a modern graphical user interface.
 
+### [HL7 Tools](https://github.com/klauseduard/hl7-tools)
+A toolkit for working with HL7 v2.x healthcare messages: browser-based viewer, terminal TUI, and an MCP server for AI agents. Supports message parsing, field definitions (v2.3/v2.5), encoding detection, anonymization, integration profiles, and MLLP transport.
+
 ### [Concept Explainer](https://klauseduard.github.io/concept-explainer/)
 A coding experiment from the early days of the LLM boom (2023) that uses simulated conversations to explain concepts.
 Updated in February 2025 with local LLM support.
